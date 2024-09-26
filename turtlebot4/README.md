@@ -1,4 +1,4 @@
-# TurtleBot4 ROS2 - setup and navigation
+# TurtleBot4 ROS2
 
 ## Warning
 
