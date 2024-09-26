@@ -5,7 +5,6 @@
 About the QR Code detection and scan with BarCode library, you need a license key.
 We already requested and inserted inside the code a valid key on 9th of July, it should expire after 30 days.
 In case you could have problems with the validation key, we suggest to make a new request to Dynamsoft website.
-Moreover this repository contains only the code developed integrated with the code available on the Turtlebot4 documentation , in order to 
 
 ## Introduction
 
